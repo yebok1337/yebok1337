@@ -1,7 +1,7 @@
 # Hi, I am yebok1337 :D
 
 <p align="left">
-  <img src="(https://media.discordapp.net/attachments/1123305031257567283/1295834199000875008/96e33fa22fbcd5c5.png](https://imgbox.com/RBUCus0F)" alt="yebok1337" width="480" />
+  <img src="(https://images2.imgbox.com/7b/38/RBUCus0F_o.png)" alt="yebok1337" width="480" />
 </p>
 
 ```java
